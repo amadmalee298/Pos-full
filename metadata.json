@@ -1,0 +1,6 @@
+{
+  "name": "KAPRAO POS",
+  "description": "Enterprise Restaurant Operating System (ROS) for ครัวกะเพรา featuring advanced POS order taking, kitchen display, inventory, recipe costing, accounting, and AI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
